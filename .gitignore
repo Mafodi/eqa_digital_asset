@@ -1,0 +1,74 @@
+##############################
+## Project
+##############################
+src/test/java/Resources/Apps
+src/main/java/Utilities/Base
+src/main/java/Utilities/Enablers
+src/test/resources/webdriver
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+*.log
+*.properties
+
+##############################
+## Maven
+##############################
+target/
+#pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+#*.iml
+*.ipr
+*.iws
+
+##############################
+## MacOS
+##############################
+.DS_Store
+
+##############################
+## Apps
+##############################
+*.apk
+*.ipa
+*.app
+
+##############################
+## Reports
+##############################
+#*.xml
+*.html
+*.css
